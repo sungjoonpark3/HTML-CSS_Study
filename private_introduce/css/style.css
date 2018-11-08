@@ -1,0 +1,19 @@
+.card-title{
+    color: blueviolet;
+    border: 2ch;
+}
+
+.big-subject{
+    font-size: 50px;
+    color: coral;
+    background-color:;
+}
+
+.main{
+    position:relative;
+    background-image: url(/main_Photo.jpg);                                                               
+    height: 100vh;
+    background-size: cover;/*배경이 꽉차게 해주는 커버의 명령어*/
+    border: 100px;
+
+}
